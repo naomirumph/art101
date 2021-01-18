@@ -1,13 +1,20 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Learning HTML</title>
-    <link rel="stylesheet" type="text/css" href="helloworld.css">
-  </head>
-  <body>
-    <div id="content">
-    <h1>Elevator music and HTML: Inside naomi's brain</h1>
-    <p>Naomi and Ethan are doing their best and trying not to flounder too hard.</p>
-    </div>
-  </body>
-</html>
+h1 {
+    color:  red;
+    font-size: 150%;
+}
+
+p {
+  font-family: "times new roman";
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#content {
+    background-color:  #cccccc;
+    width: 500px;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: dotted 5px #444444;
+    font-size: 20px;
+}
