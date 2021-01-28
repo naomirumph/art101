@@ -1,0 +1,17 @@
+h1{
+  border: 10px outset grey;
+  font-size: 20px
+  text-align: center;
+  padding: 10px;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: black;
+}
+h2{
+  border:
+  margin-left: 100px;
+  text-align: center;
+  font-size: 15px;
+}
