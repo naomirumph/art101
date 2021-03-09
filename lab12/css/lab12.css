@@ -1,29 +1,27 @@
 body{
-  background: lightgrey;
+  background: pink;
 }
 h1{
-  text-align: center;
-  font-family: fantasy: shalkduster;
+  text-align: left;
+  font-family: sans-serif;
   font-size: 30px;
-  border: outset 10px grey;
-  margin-left: 550px;
-  margin-right: 550px;
 }
-.center {
+.right {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 30%;
 }
 p{
   text-align: left;
   font-family: sans-serif;
   margin-left: 5px;
-  font-size: 15px;
+  font-size: 18px;
 }
 h2{
   font-family:sans-serif;
   font-size: 23px;
   margin-left: 5px;
+  color: brown;
 
 }

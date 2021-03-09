@@ -1,11 +1,12 @@
 body{
   background: lightgrey;
+  border: double 3px black;
 }
 h1{
   text-align: center;
-  font-family: fantasy: shalkduster;
+  font-family: sans-serif;
   font-size: 30px;
-  border: outset 10px grey;
+  border: double 5px grey;
   margin-left: 550px;
   margin-right: 550px;
 }
@@ -16,10 +17,12 @@ h1{
   width: 40%;
 }
 p{
+  border: dashed 3px darkgrey;
+  padding: 7px;
   text-align: left;
   font-family: sans-serif;
   margin-left: 5px;
-  font-size: 15px;
+  font-size: 18px;
 }
 h2{
   font-family:sans-serif;

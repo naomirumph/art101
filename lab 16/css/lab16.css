@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to bottom right, #99ccff 0%, #ffccff 100%);
+    background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+    border: white 10px double;
+}
+h1{
+  border: invisible;
+  padding: 1em;
+  background: black;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+h2{
+  text-align: left;
+  font-size: 30px;
+}
+p{
+  color: black;
+  font-size: 18px;
+  font-family: Courier, monospace;
+}
